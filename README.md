@@ -106,11 +106,11 @@ before that-
 
     Now edit the openfasoc/common/platform_config.json file, replacing the open_pdks value with the path to the sky130A/ directory from open_pdks;
     
-2. copy  /home/aditya/fasoc/openfasoc/openfasoc/OpenROAD/build/src/openroad  /home/aditya/fasoc/openfasoc/openfasoc/generators/temp-sense-gen/tools/install/OpenROAD/bin/openroad
+2. copy  /home/sritam/OpenFasoc/openfasoc/OpenROAD/build/src/openroad  /home/sritam/OpenFasoc/openfasoc/generators/temp-sense-gen/tools/install/OpenROAD/bin/openroad
 
-3. edit /fasoc/openfasoc/openfasoc/generators/temp-sense-gen/flow/Makefile at line 657 python to python3.9 or python3.8 which is present at your computer/bin/ 
+3. edit /OpenFasoc/openfasoc/generators/temp-sense-gen/flow/Makefile at line 657 python to python3.9 or python3.8 which is present at your computer/bin/ 
 
-4. edit /fasoc/openfasoc/openfasoc/generators/temp-sense-gen/flow/Makefile , insert a line at 167 export OPENROAD_EXE = /home/aditya/fasoc/openfasoc/openfasoc/generators/temp-sense-gen/tools/install/OpenROAD/bin/openroad
+4. edit /OpenFasoc/openfasoc/generators/temp-sense-gen/flow/Makefile , insert a line at 167 export OPENROAD_EXE = /home/sritam/OpenFasoc/openfasoc/generators/temp-sense-gen/tools/install/OpenROAD/bin/openroad
 
 
 After that   
@@ -130,7 +130,7 @@ the tool is trying to minimize the error iteratively, by varying the number of i
 
 after the flow completed you get    
 <p align="center">   
-  <img src="images/Screenshot from 2022-11-21 17-36-06.png">
+  <img src="images/run_flow3.png">
 </p><br>    
 
 <p align="center">   
