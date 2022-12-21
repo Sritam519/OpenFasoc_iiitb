@@ -346,7 +346,6 @@ schematic2layout.py <NETLIST_DIR> -p <PDK_DIR> -c
 
 Creating a Python virtualenv
 
-![PYTHON]
 <p align="center">   
   <img src="images/venv.png">
 </p><br>   
@@ -354,13 +353,13 @@ Creating a Python virtualenv
 
 Running design
 
-![ALIGN1]
+
 <p align="center">   
   <img src="images/gen1.png">
 </p><br>   
 
 
-![ALIGN2]
+
 <p align="center">   
   <img src="images/gen2.png">
 </p><br>   
@@ -369,13 +368,13 @@ Running design
 
 # GDS
 
-![GDS]
+
 <p align="center">   
   <img src="images/gds1.png">
 </p><br>   
 
 # LEF
-![LEF]
+
 <p align="center">   
   <img src="images/lef1.png">
 </p><br>   
