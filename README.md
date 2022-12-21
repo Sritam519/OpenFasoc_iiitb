@@ -252,7 +252,19 @@ Theses are the verilog template files which are used for the creation of netlist
 We use an all-digital temperature sensor architecture, that relies on a new subthreshold oscillator (achieved using the auxiliary cell “Header Cell“) for realizing synthesizable thermal sensors. We choose frequency as the temperature dependent variable. So, we use a ring oscillators that is based on inverters only and stacked native IO devices for better line sensitivity.    
 Since the subthreshold current has an exponential dependency on the temperature, the frequency generated from the subthreshold ring oscillator is also dependent on temperature. Using this principle, we can sense the temperature by comparing the clock generated from a reference oscillator and the clock frequency from our proposed frequency generator.
 
+## Acknowledgement
+  
+  * Kunal Ghosh, Director, VSD Corp. Pvt. Ltd.
+  * Madhav Rao, Professor, IIIT-Bangalore.
+  * Nanditha Rao, Professor, IIIT-Bangalore.
+  
 
+## Contact Information
+
+  * Sriman Sritam Birtia, Post Graduate student, IIIT Bangalore, Sriman.Birtia@iiitb.ac.in
+  * Kunal Ghosh, Director, VSD Corp. Pvt. Ltd. kunalghosh@gmail.com
+  * Madhav Rao, Professor, IIIT-Bangalore. mr@iiitb.ac.in
+  * Nanditha Rao, Professor, IIIT-Bangalore. nanditha.rao@iiitb.ac.in
    
 
 
