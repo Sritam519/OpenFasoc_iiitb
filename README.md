@@ -377,7 +377,9 @@ Running design
 
 <p align="center">   
   <img src="images/lef1.png">
-</p><br>   
+</p><br>
+
+
 ## Acknowledgement
   
   * Kunal Ghosh, Director, VSD Corp. Pvt. Ltd.
