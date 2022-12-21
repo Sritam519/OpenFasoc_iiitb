@@ -140,7 +140,7 @@ after the flow completed you get
 klayout view of 6_final.gds   
 
 <p align="center">   
-  <img src="images/Screenshot from 2022-11-21 17-43-00.png">
+  <img src="images/gds.png">
 </p><br>    
 
 
