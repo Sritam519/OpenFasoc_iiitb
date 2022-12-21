@@ -134,7 +134,7 @@ after the flow completed you get
 </p><br>    
 
 <p align="center">   
-  <img src="images/Screenshot from 2022-11-21 17-36-33.png">
+  <img src="images/folder_6.png">
 </p><br>    
 
 klayout view of 6_final.gds   
